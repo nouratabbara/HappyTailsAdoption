@@ -1,7 +1,6 @@
 # Happy Tails Adoption
 
-SOEN 287 - Web Programming Project\
-Locally hosted: http://localhost:8000/
+SOEN 287 - Web Programming Project
 
 ## Objectives
 Design a Pet Adoption Site
