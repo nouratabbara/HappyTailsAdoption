@@ -1,6 +1,6 @@
 # Happy Tails Adoption
 
-SOEN 287 - Web Programming Project
+SOEN 287 - Web Programming Project\
 Locally hosted: http://localhost:8000/
 
 ## Objectives
