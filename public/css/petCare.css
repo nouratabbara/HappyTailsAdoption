@@ -1,0 +1,28 @@
+div div h1{
+    font-size:2vw;
+    text-decoration: underline;
+}
+
+div div h5{
+    font-size:1.5vw;
+  
+}
+
+
+p{
+    font-size:1vw;
+
+}
+
+div div div ol li{
+    list-style-type: disc;
+    font-size:1vw;
+    margin-left: 15px;
+}
+
+div div div img{
+    max-height: 600px;
+    min-height: 500px;
+    max-width: 400px;
+    min-width: 300px;
+}

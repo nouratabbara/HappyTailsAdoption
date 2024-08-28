@@ -1,0 +1,5 @@
+1:user1:dog:german:3:female:true:true:false
+2:user2:cat:russian:0.5:female:true:false:true
+3:user2:dog:australian:1:male:true:true:true
+4:noura:cat:mainecoon:5:male:true:false:false:Noura Tabbara:nouratabara@gmail.com
+5:noura:cat:russian:2:female:false:false:false:Noura Tabbara:nouratabara@gmail.com
